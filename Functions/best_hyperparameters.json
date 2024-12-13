@@ -1,0 +1,9 @@
+{
+    "model__lstm_units": 100,
+    "model__learning_rate": 0.001,
+    "model__embedding_property_type_dim": 5,
+    "model__embedding_neighbourhood_dim": 11,
+    "model__dropout_rate": 0.2,
+    "epochs": 10,
+    "batch_size": 32
+}
